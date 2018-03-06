@@ -25,7 +25,7 @@ npm install --save leaflet-control-custom
 Include script inside the head tag after Leaflet:
 
 ```
-<script src="Leaflet.Control.Custom.js"></script>
+<script src="node_modules/leaflet-control-custom/Leaflet.Control.Custom.js"></script>
 ```
 
 
