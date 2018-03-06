@@ -16,6 +16,11 @@ Leaflet v0.6.0+
 
 
 ## Installation
+For convenience (and the fact that the original project isn't update over a year) i created a npm package.
+```
+npm install --save leaflet-control-custom
+```
+
 
 Include script inside the head tag after Leaflet:
 
